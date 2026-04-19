@@ -1,0 +1,19 @@
+# Dependencies
+.venv
+venv
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+social-media-content/
